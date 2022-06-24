@@ -2,7 +2,7 @@
 각종 발표에 사용된 키노트 모음집
 
 ## Apple Developer Academy
-- Nano Challenge #1 [(Keynote)](https://github.com/Chaeho-Min/Keynote_Collection/blob/main/NC1_%20AIG.key), [(PDF)](https://github.com/Chaeho-Min/Keynote_Collection/blob/main/NC1_AIG(PDF).pdf)
+- Nano Challenge #1 - AIG [(Keynote)](https://github.com/Chaeho-Min/Keynote_Collection/blob/main/NC1_%20AIG.key), [(PDF)](https://github.com/Chaeho-Min/Keynote_Collection/blob/main/NC1_AIG(PDF).pdf)
 
 ## WWHigh
 - Searchable [(Keynote](https://github.com/Chaeho-Min/Keynote_Collection/blob/main/WWHigh_%231_Searchable.key), [(PDF)](https://github.com/Chaeho-Min/Keynote_Collection/blob/main/WWHigh_%231_Searchable(PDF).pdf)
