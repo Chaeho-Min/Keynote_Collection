@@ -18,3 +18,7 @@
 - [WWDC22] Hello Swift Charts [(Issue)](https://github.com/WWHigh/WWDC-STUDY/issues/15) | [(Keynote)](https://github.com/Chaeho-Min/Keynote_Collection/blob/main/WWHigh_%232_Hello%20Swift%20Charts.key), [(PDF)](https://github.com/Chaeho-Min/Keynote_Collection/blob/main/WWHigh_%232_Hello%20Swift%20Charts(PDF).pdf)
 
   <img width="400" src="https://user-images.githubusercontent.com/75792767/175550788-8bf0ba24-fd55-4b5e-9da1-4a1202131572.png">
+  
+- [WWDC22] Swift Charts: Raise the bar [(Issue)](https://github.com/WWHigh/WWDC-STUDY/issues/20) | [(Keynote)](https://github.com/Chaeho-Min/Keynote_Collection/blob/main/WWHigh_%233_Swift%20Charts%20-%20Raise%20the%20bar.key), [(PDF)](https://github.com/Chaeho-Min/Keynote_Collection/blob/main/WWHigh_%233_Swift%20Charts%20-%20Raise%20the%20bar(PDF).pdf)
+
+  <img width="400" src="https://user-images.githubusercontent.com/75792767/177158603-6e816aa8-a51b-4f50-88f4-945e90a205be.png">
